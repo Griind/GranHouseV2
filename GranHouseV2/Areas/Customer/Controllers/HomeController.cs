@@ -8,6 +8,7 @@ using GranHouseV2.Models;
 
 namespace GranHouseV2.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         public IActionResult Index()
