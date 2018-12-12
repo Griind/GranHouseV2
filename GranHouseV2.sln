@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GranHouseV2", "GranHouseV2\GranHouseV2.csproj", "{CDB60881-9B55-48A3-A7D1-078276AC30C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB60881-9B55-48A3-A7D1-078276AC30C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB60881-9B55-48A3-A7D1-078276AC30C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB60881-9B55-48A3-A7D1-078276AC30C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB60881-9B55-48A3-A7D1-078276AC30C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F58CA3-C69B-477C-9C6B-1D6C55A10F62}
+	EndGlobalSection
+EndGlobal
